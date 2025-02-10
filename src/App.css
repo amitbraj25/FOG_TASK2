@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #000; /* Darker background for better visibility */
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+

@@ -1,0 +1,19 @@
+.grid {
+  margin: 20px 0;
+  background-color: black; /* Black background for the grid */
+}
+
+.grid div {
+  transition: background-color 0.2s ease-in-out; /* Smooth color transition */
+  border: 1px solid black; /* Border to show the grid cells */
+}
+
+.controls {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.controls div {
+  margin: 10px 0;
+}
